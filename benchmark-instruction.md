@@ -27,7 +27,9 @@ Q2: If the answer is Yes for Q1, could you list the excessive permissions?
 Example 1, a third-party application that functions as a mathematics editor for Google Spreadsheet:
 
 permission 1: send email as you.                                          -> excessive
+
 permission 2: edit your Google Spreadsheet that currently interacted with.-> no excessive
+
 permission 3: edit all your Google Spreasheet.                            -> excessive
 
 
