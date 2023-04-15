@@ -18,8 +18,11 @@ Q1: Does this Third-Party app request more permission?
     
 - [ ] Yes 
 - [ ] No
+
 Q2: If the answer is Yes for Q1, could you list the excessive permissions? 
+
 [a list of excessive permissions]
+
 ---
 
 **Excessive Permission:** 
