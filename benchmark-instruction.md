@@ -27,6 +27,7 @@ Q2: If the answer is Yes for Q1, could you list the excessive permissions?
 
 **Functionality Permissions:**
 Align with the problem definition in our paper, Functionality Permissions refer to the permissions that must be satisfied for the Third-party-application(TPA) to function correctly.
+
 Example 1, a third-party application that functions as a mathematics editor for Google Spreadsheet:
 
 permission 1: edit your Google Spreadsheet that currently interacted with. -> functionality permission
@@ -42,12 +43,17 @@ Align with the problem definition in our paper, Excessive Permissions refer to t
 
 Example 1, a third-party application that functions as a mathematics editor for Google Spreadsheet:
 
-permission 1: send email as you.                                          -> excessive
+permission 1: send email as you.                                            -> excessive
 
-permission 2: edit your Google Spreadsheet that currently interacted with.-> no excessive
+permission 2: edit your Google Spreadsheet that currently interacted with.  -> no excessive
 
-permission 3: edit all your Google Spreasheet.                            -> excessive
+permission 3: edit all your Google Spreasheet.                              -> excessive
 
+permission 4: delete your Google Spreadsheet that currently interacted with.-> excessive
+
+permission 5: create your Google Spreadsheet that currently interacted with.-> excessive
+
+permission 6: share your Google Spreadsheet that currently interacted with. -> excessive
 
 ---
 
