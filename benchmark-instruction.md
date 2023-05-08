@@ -1,7 +1,7 @@
 ## Excessive Permission Annotation Instructions
 
 Below are the instructions we used for the manual annotations needed for the
-benchmark labeling in the paper (Section [to be decided]).
+benchmark labeling in the paper (Section VI).
 
 
 ### Instructions
