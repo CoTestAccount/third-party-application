@@ -37,7 +37,7 @@ reasons for permission 2: the TPA would convert your content (e.g. X_{i} + Y_{i}
 
 
 
-**Excessive Permission:** 
+**Excessive Permissions:** 
 Align with the problem definition in our paper, Excessive Permissions refer to the permissions that can be removed without affecting the functionality of Third-party-application(TPA).
 
 Example 1, a third-party application that functions as a mathematics editor for Google Spreadsheet:
